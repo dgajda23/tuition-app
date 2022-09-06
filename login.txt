@@ -1,2 +1,3 @@
 username: david.gajda | password: login123
 username: steve.tommy | password: pass123
+username: user12 | password: pass12
